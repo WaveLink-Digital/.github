@@ -53,9 +53,9 @@ We are always open to collaboration and contributions! Explore our repositories,
 ---
 
 ### 📫 Connect With Us
-- **Website**: [wavelink.com](https://wavelink.com)  
-- **Email**: contact@wavelink.com  
-- **Follow Us**: [Twitter](https://twitter.com/wavelink) | [LinkedIn](https://linkedin.com/company/wavelink)
+- **Website**: [wavelink..digital](https://wavelink.digital)  
+- **Email**: contact@wavelink.digital  
+- **Follow Us**: [Twitter](https://x.com/WavelinkDev) | [LinkedIn](https://www.linkedin.com/company/wavelink-digital-solutions)
 
 Let’s make something amazing! 🚀  
 **Wavelink Organization Team**
